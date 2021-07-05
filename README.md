@@ -2,7 +2,7 @@
 
 Report elements are responsive (look good on any screen size) and each graph element load asynchronously, as soon as data is ready. These give a satisfying user experience.
 <br/><br/>
-![image](https://user-images.githubusercontent.com/1107837/124495277-c66a6500-dd6c-11eb-8142-5c9359f42dee.png)
+![image](https://user-images.githubusercontent.com/1107837/124497144-4b567e00-dd6f-11eb-86ac-89172594c278.png)
 <br/><br/><br/><br/>
 
 Clients can configure different aspects of their phone handling: hours of operations, employees who are phone handlers, keywords that need to be captured during a phone call, etc.
