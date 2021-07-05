@@ -1,6 +1,7 @@
 # CallVitalz Screenshots
 
 Report elements are responsive (look good on any screen size) and each graph element load asynchronously, as soon as data is ready. These give a satisfying user experience.
+All quantitative graphic elements can drilldown to show relevant data in the bottom grid.
 <br/><br/>
 ![image](https://user-images.githubusercontent.com/1107837/124497144-4b567e00-dd6f-11eb-86ac-89172594c278.png)
 <br/><br/><br/><br/>
