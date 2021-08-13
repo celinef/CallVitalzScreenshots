@@ -6,9 +6,12 @@ All quantitative graphic elements can drilldown to show relevant data in the bot
 ![image](https://user-images.githubusercontent.com/1107837/124497144-4b567e00-dd6f-11eb-86ac-89172594c278.png)
 <br/><br/><br/><br/>
 
-Call detail, recording audio, and transcript.
+Call detail, recording audio, and transcript.<br/><br/>
+After a patient completes a call, the call recording and call details go into the Call Processing pipeline.
+There, cloud speech-to-text AI outputs a text transcript with confidence levels.
+Custom Machine Learning scans through the text transcript to tag various data points of interest.<br/><br/>
 When user clicks on a specific line of transcript, the audio will jump to that point.
-The transcript's starting point is speech-to-text AI. Human transcribers can listen to the call and edit the transcript for further accuracy.
+Human transcribers can listen to the call and edit the transcript for further accuracy.
 The data points on the left half are determined by Machine Learning.
 The screenshot below is from a fake/demo call.
 <br/><br/>
