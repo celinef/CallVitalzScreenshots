@@ -10,7 +10,8 @@ All quantitative graphic elements can drilldown to show relevant data in the bot
 After a patient completes a call, the call recording and metadata goes through custom processing and results in the data points shown on the left half.
 The screenshot below is from a fake/demo call.
 <br/><br/>
-![image](https://user-images.githubusercontent.com/1107837/124498845-e81a1b00-dd71-11eb-970c-10d7d4377efa.png)
+![image](https://user-images.githubusercontent.com/1107837/167665429-f9c9ea92-730d-49e4-b7c5-578c2c7318c1.png)
+
 <br/><br/><br/><br/>
 
 Clients can configure different aspects of their phone handling: hours of operations, employees who need to receive alerts, keywords that need to be captured during a phone call, etc. Clients can click the Edit button to update any phone number settings such as routing the main line to a different target number when main receptionist is on lunch break.
