@@ -7,13 +7,12 @@ All quantitative graphic elements can drilldown to show relevant data in the bot
 <br/><br/><br/><br/>
 
 <strong>Call detail, recording audio, and transcript.</strong><br/><br/>
-After a patient completes a call, the call recording and metadata goes through custom processing and results in the data points shown on the left half.
+After a patient completes a call, the call recording and metadata goes through custom processing and results in the data points shown on the left half. The entire process is automated.
 The screenshot below is from a fake/demo call.
 <br/><br/>
 ![image](https://user-images.githubusercontent.com/1107837/167665429-f9c9ea92-730d-49e4-b7c5-578c2c7318c1.png)
 
-<br/><br/><br/><br/>
-
+<br/><br/>
 Clients can configure different aspects of their phone handling: hours of operations, employees who need to receive alerts, keywords that need to be captured during a phone call, etc. Clients can click the Edit button to update any phone number settings such as routing the main line to a different target number when main receptionist is on lunch break.
 
 When a phone call ends, the CallVitalz application uses API integration with the phone provider to fold the call details and audio into its pipeline. The end result is shown in screenshot above.
