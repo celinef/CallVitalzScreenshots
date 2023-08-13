@@ -6,7 +6,7 @@ Report elements are responsive (look good on any screen size). Each graph elemen
 ![image](https://user-images.githubusercontent.com/1107837/124497144-4b567e00-dd6f-11eb-86ac-89172594c278.png)
 <br/><br/><br/><br/>
 
-<strong>Call detail, voice recording audio, and AI voice-to-text transcript.</strong><br/><br/>
+<strong>Voice recording audio, AI voice-to-text transcript, and key data point extraction</strong><br/><br/>
 After a patient completes a call, the call recording is processed using AI voice-to-text service, with the transcript shown on the right of page. The transcript and metadata also goes through our custom-trained model to extract the key data points shown on the left half.
 The screenshot below is from a fake/demo call.
 <br/><br/>
