@@ -1,4 +1,4 @@
-# CallVitalz Application
+# CallVitalz Call Intelligence Application
 
 <strong>Reports and Analytics</strong><br/><br/>
 Report elements are responsive (look good on any screen size). Each graph element loads asynchronously, as soon as data is ready. All quantitative graphic elements can drilldown to show relevant data in the bottom grid.
