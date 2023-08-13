@@ -6,13 +6,13 @@
   <li>Each graph element load asynchronously, as soon as data is ready</li>
   <li>All quantitative graphic elements can drilldown to show relevant data in the bottom grid</li>
 </ul>
-![image](https://user-images.githubusercontent.com/1107837/124497144-4b567e00-dd6f-11eb-86ac-89172594c278.png)
+![image](https://user-images.githubusercontent.com/1107837/124497144-4b567e00-dd6f-11eb-86ac-89172594c278.png?raw=true)
 <br/><br/>
 <strong>Call detail, recording audio, and transcript</strong><br/>
 After a patient completes a call, the call recording and metadata goes through custom processing and results in the data points shown on the left half. The entire process is automated.
 The screenshot below is from a fake/demo call.
 <br/><br/>
-![image](https://user-images.githubusercontent.com/1107837/167665429-f9c9ea92-730d-49e4-b7c5-578c2c7318c1.png)
+![image](https://user-images.githubusercontent.com/1107837/167665429-f9c9ea92-730d-49e4-b7c5-578c2c7318c1.png?raw=true)
 
 <br/><br/>
 Clients can configure different aspects of their phone handling: hours of operations, employees who need to receive alerts, keywords that need to be captured during a phone call, etc. Clients can click the Edit button to update any phone number settings such as routing the main line to a different target number when main receptionist is on lunch break.
