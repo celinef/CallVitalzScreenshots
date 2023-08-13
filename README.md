@@ -8,12 +8,10 @@
 </ul>
 ![image](https://user-images.githubusercontent.com/1107837/124497144-4b567e00-dd6f-11eb-86ac-89172594c278.png)
 <br/><br/>
-![image](https://user-images.githubusercontent.com/1107837/124497144-4b567e00-dd6f-11eb-86ac-89172594c278.png)
-<br/>
 <strong>Call detail, recording audio, and transcript</strong><br/>
 After a patient completes a call, the call recording and metadata goes through custom processing and results in the data points shown on the left half. The entire process is automated.
 The screenshot below is from a fake/demo call.
-<br/>
+<br/><br/>
 ![image](https://user-images.githubusercontent.com/1107837/167665429-f9c9ea92-730d-49e4-b7c5-578c2c7318c1.png)
 
 <br/><br/>
